@@ -8165,7 +8165,7 @@
           <rect x="1121.5837" y="507.215" width="59.278" height="17.5699" rx="3.2843" ry="3.2843" fill="#6db6ff"/>
           <text transform="translate(1125.1501 521.0704)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">PWM3B</tspan></text>
         </g>
-        <text transform="translate(849.9665 521.3477)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">D7</tspan></text>
+        <text transform="translate(844.8404 521.3477)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">D13</tspan></text>
       </g>
       <g>
         <g>
@@ -8182,7 +8182,7 @@
           <rect x="1121.5837" y="528.5047" width="59.278" height="17.5699" rx="3.2843" ry="3.2843" fill="#6db6ff"/>
           <text transform="translate(1125.1501 542.3594)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">PWM2A</tspan></text>
         </g>
-        <text transform="translate(849.9645 542.3585)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">D4</tspan></text>
+        <text transform="translate(844.7013 542.3585)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">D12</tspan></text>
       </g>
       <g>
         <line x1="219.7263" y1="770.4985" x2="627.6616" y2="770.4985" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
@@ -8321,19 +8321,19 @@
         <text transform="translate(590.7329 921.7467)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">HSTX</tspan></text>
       </g>
       <g>
-        <line x1="891.1629" y1="785.1571" x2="1257.2679" y2="785.1571" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
-        <rect x="904.9037" y="776.8853" width="89.533" height="16.5436" rx="2.771" ry="2.771" fill="#e6e6e6" stroke="#737373" stroke-width=".3543"/>
-        <text transform="translate(907.9574 790.2281)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">NEOPIXEL</tspan></text>
-        <rect x="998.2338" y="776.3721" width="69.7051" height="17.5699" rx="3.2843" ry="3.2843" fill="#ffff6d"/>
-        <text transform="translate(1001.8021 790.2281)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">GPIO21</tspan></text>
-        <rect x="1071.2231" y="776.3721" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#24ff24"/>
-        <text transform="translate(1074.7933 790.2281)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">CSn0</tspan></text>
-        <rect x="1123.3583" y="776.3721" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#009292"/>
-        <text transform="translate(1132.1429 790.2281)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">RX1</tspan></text>
-        <rect x="1175.4936" y="776.3721" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#b6dbff"/>
-        <text transform="translate(1179.0619 790.2281)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">SCL0</tspan></text>
-        <rect x="1227.6288" y="776.3721" width="59.278" height="17.5699" rx="3.2843" ry="3.2843" fill="#6db6ff"/>
-        <text transform="translate(1231.1966 790.2281)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">PWM2B</tspan></text>
+        <line x1="911.1462" y1="787.676" x2="1277.2512" y2="787.676" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
+        <rect x="924.887" y="779.4042" width="89.533" height="16.5436" rx="2.771" ry="2.771" fill="#e6e6e6" stroke="#737373" stroke-width=".3543"/>
+        <text transform="translate(927.9406 792.7471)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">NEOPIXEL</tspan></text>
+        <rect x="1018.2171" y="778.891" width="69.7051" height="17.5699" rx="3.2843" ry="3.2843" fill="#ffff6d"/>
+        <text transform="translate(1021.7854 792.7471)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">GPIO21</tspan></text>
+        <rect x="1091.2064" y="778.891" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#24ff24"/>
+        <text transform="translate(1094.7766 792.7471)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">CSn0</tspan></text>
+        <rect x="1143.3416" y="778.891" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#009292"/>
+        <text transform="translate(1152.1262 792.7471)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">RX1</tspan></text>
+        <rect x="1195.4768" y="778.891" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#b6dbff"/>
+        <text transform="translate(1199.0451 792.7471)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">SCL0</tspan></text>
+        <rect x="1247.612" y="778.891" width="59.278" height="17.5699" rx="3.2843" ry="3.2843" fill="#6db6ff"/>
+        <text transform="translate(1251.1799 792.7471)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">PWM2B</tspan></text>
       </g>
       <g>
         <line x1="628.7123" y1="370.1155" x2="585.8455" y2="370.1155" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
@@ -8641,47 +8641,47 @@
       </g>
       <text transform="translate(180.6375 942.0168) rotate(-90)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="32.6623" isolation="isolate"><tspan x="0" y="0">HSTX</tspan></text>
       <g>
-        <line x1="870.1393" y1="993.7887" x2="900.5516" y2="1007.4018" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
-        <line x1="900.5516" y1="950.8625" x2="869.8497" y2="964.4756" fill="#f60" stroke="#f60" stroke-miterlimit="10" stroke-width=".709"/>
-        <line x1="900.5516" y1="1007.4018" x2="931.2534" y2="1007.4018" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
-        <line x1="900.5516" y1="950.8625" x2="931.2535" y2="950.8625" fill="#f60" stroke="#f60" stroke-miterlimit="10" stroke-width=".709"/>
-        <line x1="838.8583" y1="993.7887" x2="869.8497" y2="993.7887" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
-        <line x1="838.8583" y1="964.4756" x2="869.8497" y2="964.4756" fill="#f60" stroke="#f60" stroke-miterlimit="10" stroke-width=".709"/>
+        <line x1="890.1226" y1="996.3077" x2="920.5348" y2="1009.9207" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
+        <line x1="920.5349" y1="953.3814" x2="889.833" y2="966.9945" fill="#f60" stroke="#f60" stroke-miterlimit="10" stroke-width=".709"/>
+        <line x1="920.5348" y1="1009.9207" x2="951.2367" y2="1009.9207" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
+        <line x1="920.5349" y1="953.3814" x2="951.2367" y2="953.3814" fill="#f60" stroke="#f60" stroke-miterlimit="10" stroke-width=".709"/>
+        <line x1="858.8415" y1="996.3077" x2="889.833" y2="996.3077" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
+        <line x1="858.8416" y1="966.9945" x2="889.833" y2="966.9945" fill="#f60" stroke="#f60" stroke-miterlimit="10" stroke-width=".709"/>
         <g>
-          <path d="M962.0048,949.654" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
-          <path d="M919.1381,949.654" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
-          <rect x="932.3656" y="940.8689" width="59.278" height="17.5699" rx="3.2842" ry="3.2842" fill="#490092"/>
-          <text transform="translate(935.9341 954.7227)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">SWCLK</tspan></text>
+          <path d="M981.9881,952.173" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
+          <path d="M939.1213,952.173" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
+          <rect x="952.3489" y="943.3879" width="59.278" height="17.5699" rx="3.2842" ry="3.2842" fill="#490092"/>
+          <text transform="translate(955.9174 957.2416)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">SWCLK</tspan></text>
         </g>
         <g>
-          <path d="M962.0048,1006.7491" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
-          <path d="M919.1381,1006.7491" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
-          <rect x="932.3656" y="997.9641" width="59.278" height="17.5699" rx="3.2843" ry="3.2843" fill="#490092"/>
-          <text transform="translate(935.9341 1011.8184)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">SWDIO</tspan></text>
+          <path d="M981.9881,1009.268" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
+          <path d="M939.1213,1009.268" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
+          <rect x="952.3489" y="1000.483" width="59.278" height="17.5699" rx="3.2843" ry="3.2843" fill="#490092"/>
+          <text transform="translate(955.9174 1014.3373)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">SWDIO</tspan></text>
         </g>
-        <line x1="981.9988" y1="978.2014" x2="837.011" y2="978.2014" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".7087"/>
-        <rect x="932.3656" y="968.7636" width="59.278" height="17.5699" rx="3.2843" ry="3.2843"/>
-        <text transform="translate(946.3619 982.6182)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
+        <line x1="1001.9821" y1="980.7204" x2="856.9942" y2="980.7204" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".7087"/>
+        <rect x="952.3489" y="971.2825" width="59.278" height="17.5699" rx="3.2843" ry="3.2843"/>
+        <text transform="translate(966.3452 985.1371)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
         <g>
-          <rect id="rect18427" x="796.5708" y="959.8413" width="36.4947" height="35.6237" fill="#333" stroke="#333" stroke-miterlimit="3.8362" stroke-width=".2877"/>
-          <rect id="rect18429" x="832.7758" y="952.0211" width="9.5581" height="50.8319" fill="#666"/>
+          <rect id="rect18427" x="816.5541" y="962.3603" width="36.4947" height="35.6237" fill="#333" stroke="#333" stroke-miterlimit="3.8362" stroke-width=".2877"/>
+          <rect id="rect18429" x="852.7591" y="954.54" width="9.5581" height="50.8319" fill="#666"/>
           <g>
-            <rect id="rect18431" x="822.3488" y="958.9724" width="11.2959" height="8.1099" fill="#666"/>
-            <rect id="rect18433" x="822.3488" y="970.558" width="11.2959" height="4.3446" fill="#666"/>
-            <rect id="rect18435" x="822.3488" y="980.6954" width="11.2959" height="3.186" fill="#666"/>
-            <rect id="rect18439" x="822.3488" y="989.6465" width="11.2959" height="7.5306" fill="#666"/>
+            <rect id="rect18431" x="842.3321" y="961.4913" width="11.2959" height="8.1099" fill="#666"/>
+            <rect id="rect18433" x="842.3321" y="973.0769" width="11.2959" height="4.3446" fill="#666"/>
+            <rect id="rect18435" x="842.3321" y="983.2143" width="11.2959" height="3.186" fill="#666"/>
+            <rect id="rect18439" x="842.3321" y="992.1654" width="11.2959" height="7.5306" fill="#666"/>
           </g>
         </g>
       </g>
       <g id="sk6805_1515-2" data-name="sk6805_1515">
         <g id="g853-2" data-name="g853">
           <g id="g8-2" data-name="g8">
-            <rect id="rect4-2-2" data-name="rect4-2" x="858.9883" y="770.674" width="28.9661" height="28.9661" fill="#9c8f6d"/>
-            <rect id="rect6-2" data-name="rect6" x="864.7774" y="772.8456" width="17.3827" height="17.3827" fill="#807c73"/>
+            <rect id="rect4-2-2" data-name="rect4-2" x="878.9716" y="773.1929" width="28.9661" height="28.9661" fill="#9c8f6d"/>
+            <rect id="rect6-2" data-name="rect6" x="884.7607" y="775.3645" width="17.3827" height="17.3827" fill="#807c73"/>
           </g>
-          <circle id="path833-2" data-name="path833" cx="876.7255" cy="779.3973" r="2.9878" fill="red"/>
-          <circle id="circle835-2" data-name="circle835" cx="870.1712" cy="779.6381" r="2.9878" fill="lime"/>
-          <circle id="circle837-2" data-name="circle837" cx="873.4969" cy="785.6137" r="2.9878" fill="blue"/>
+          <circle id="path833-2" data-name="path833" cx="896.7088" cy="781.9162" r="2.9878" fill="red"/>
+          <circle id="circle835-2" data-name="circle835" cx="890.1545" cy="782.157" r="2.9878" fill="lime"/>
+          <circle id="circle837-2" data-name="circle837" cx="893.4802" cy="788.1326" r="2.9878" fill="blue"/>
         </g>
       </g>
       <g>
@@ -8720,67 +8720,67 @@
       </g>
       <g>
         <g>
-          <line x1="871.5279" y1="871.887" x2="902.5069" y2="866.6264" fill="none" stroke="blue" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="871.8202" y1="859.32" x2="902.5069" y2="845.5841" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="902.5069" y1="908.4188" x2="871.5279" y2="894.6829" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="902.2147" y1="887.6687" x2="871.5279" y2="882.7004" fill="none" stroke="red" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="902.5069" y1="887.6687" x2="933.4859" y2="887.6687" fill="none" stroke="red" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="902.5069" y1="845.5841" x2="933.4859" y2="845.5841" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="902.5069" y1="866.6264" x2="933.4859" y2="866.6264" fill="none" stroke="blue" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="902.5069" y1="908.4188" x2="933.4859" y2="908.4188" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".7087"/>
-          <path d="M936.993,878.6088h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c-.2922-1.7535,1.1691-3.2148,3.2148-3.2148Z" fill="#920000"/>
-          <text transform="translate(942.3496 892.5771)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">3.3V</tspan></text>
-          <path d="M936.7007,836.8164h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c0-1.7535,1.4614-3.2148,3.2148-3.2148Z" fill="#ffff6d"/>
-          <text transform="translate(947.5137 850.7167)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">SCL</tspan></text>
-          <path d="M936.7007,857.8587h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c0-1.7535,1.4614-3.2148,3.2148-3.2148Z" fill="#006ddb"/>
-          <text transform="translate(947.5137 871.7607)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">SDA</tspan></text>
-          <path d="M936.993,899.3589h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c-.2922-1.7535,1.1691-3.2148,3.2148-3.2148Z"/>
-          <text transform="translate(947.6104 913.3955)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
-          <path d="M936.7007,836.8164h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c0-1.7535,1.4614-3.2148,3.2148-3.2148Z" fill="#ff0"/>
-          <text transform="translate(947.5127 850.7167)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">SCL</tspan></text>
-          <path d="M936.7007,857.8587h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c0-1.7535,1.4614-3.2148,3.2148-3.2148Z" fill="blue"/>
-          <text transform="translate(947.5127 871.7607)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">SDA</tspan></text>
-          <line x1="840.2567" y1="859.32" x2="871.5279" y2="859.32" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="840.2567" y1="871.887" x2="871.5279" y2="871.887" fill="none" stroke="blue" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="840.2567" y1="882.7004" x2="871.2356" y2="882.7004" fill="none" stroke="red" stroke-linecap="round" stroke-width=".7087"/>
-          <line x1="840.2567" y1="894.6829" x2="871.5279" y2="894.6829" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="891.5112" y1="874.4059" x2="922.4902" y2="869.1453" fill="none" stroke="blue" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="891.8035" y1="861.8389" x2="922.4902" y2="848.103" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="922.4902" y1="910.9378" x2="891.5112" y2="897.2018" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="922.198" y1="890.1877" x2="891.5112" y2="885.2193" fill="none" stroke="red" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="922.4902" y1="890.1877" x2="953.4692" y2="890.1877" fill="none" stroke="red" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="922.4902" y1="848.103" x2="953.4692" y2="848.103" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="922.4902" y1="869.1453" x2="953.4692" y2="869.1453" fill="none" stroke="blue" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="922.4902" y1="910.9378" x2="953.4692" y2="910.9378" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".7087"/>
+          <path d="M956.9763,881.1278h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c-.2922-1.7535,1.1691-3.2148,3.2148-3.2148Z" fill="#920000"/>
+          <text transform="translate(962.3329 895.096)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">3.3V</tspan></text>
+          <path d="M956.684,839.3353h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c0-1.7535,1.4614-3.2148,3.2148-3.2148Z" fill="#ffff6d"/>
+          <text transform="translate(967.497 853.2357)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">SCL</tspan></text>
+          <path d="M956.684,860.3777h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c0-1.7535,1.4614-3.2148,3.2148-3.2148Z" fill="#006ddb"/>
+          <text transform="translate(967.497 874.2796)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">SDA</tspan></text>
+          <path d="M956.9763,901.8778h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c-.2922-1.7535,1.1691-3.2148,3.2148-3.2148Z"/>
+          <text transform="translate(967.5936 915.9144)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
+          <path d="M956.684,839.3353h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c0-1.7535,1.4614-3.2148,3.2148-3.2148Z" fill="#ff0"/>
+          <text transform="translate(967.496 853.2357)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">SCL</tspan></text>
+          <path d="M956.684,860.3777h53.1904c1.7535,0,3.2148,1.4613,3.2148,3.2148v11.1057c0,1.7535-1.4613,3.2148-3.2148,3.2148h-53.1904c-1.7535,0-3.2148-1.4613-3.2148-3.2148v-11.1057c0-1.7535,1.4614-3.2148,3.2148-3.2148Z" fill="blue"/>
+          <text transform="translate(967.496 874.2796)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.5353" font-weight="700" isolation="isolate"><tspan x="0" y="0">SDA</tspan></text>
+          <line x1="860.2399" y1="861.8389" x2="891.5112" y2="861.8389" fill="none" stroke="#ff0" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="860.2399" y1="874.4059" x2="891.5112" y2="874.4059" fill="none" stroke="blue" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="860.2399" y1="885.2193" x2="891.2189" y2="885.2193" fill="none" stroke="red" stroke-linecap="round" stroke-width=".7087"/>
+          <line x1="860.2399" y1="897.2018" x2="891.5112" y2="897.2018" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".7087"/>
           <g>
-            <rect id="rect18427-2" data-name="rect18427" x="799.6332" y="853.7672" width="36.8241" height="45.2995" fill="#333" stroke="#333" stroke-miterlimit="3.8362" stroke-width=".2877"/>
-            <rect id="rect18429-2" data-name="rect18429" x="836.1651" y="846.1686" width="9.6444" height="60.789" fill="#666"/>
+            <rect id="rect18427-2" data-name="rect18427" x="819.6165" y="856.2861" width="36.8241" height="45.2995" fill="#333" stroke="#333" stroke-miterlimit="3.8362" stroke-width=".2877"/>
+            <rect id="rect18429-2" data-name="rect18429" x="856.1483" y="848.6875" width="9.6444" height="60.789" fill="#666"/>
             <g>
-              <rect id="rect18431-2" data-name="rect18431" x="825.6439" y="891.7603" width="11.3979" height="8.1831" fill="#666"/>
-              <rect id="rect18433-2" data-name="rect18433" x="825.6439" y="883.8694" width="11.3979" height="4.3838" fill="#666"/>
-              <rect id="rect18435-2" data-name="rect18435" x="825.6439" y="874.8095" width="11.3979" height="3.2148" fill="#666"/>
-              <rect id="rect18437" x="825.6439" y="864.2884" width="11.3979" height="4.3838" fill="#666"/>
-              <rect id="rect18439-2" data-name="rect18439" x="825.6439" y="853.1827" width="11.3979" height="7.5986" fill="#666"/>
+              <rect id="rect18431-2" data-name="rect18431" x="845.6272" y="894.2792" width="11.3979" height="8.1831" fill="#666"/>
+              <rect id="rect18433-2" data-name="rect18433" x="845.6272" y="886.3883" width="11.3979" height="4.3838" fill="#666"/>
+              <rect id="rect18435-2" data-name="rect18435" x="845.6272" y="877.3285" width="11.3979" height="3.2148" fill="#666"/>
+              <rect id="rect18437" x="845.6272" y="866.8073" width="11.3979" height="4.3838" fill="#666"/>
+              <rect id="rect18439-2" data-name="rect18439" x="845.6272" y="855.7016" width="11.3979" height="7.5986" fill="#666"/>
             </g>
           </g>
         </g>
         <g>
-          <line x1="999.3566" y1="847.3377" x2="1256.3304" y2="845.6808" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
-          <rect x="994.9579" y="836.8164" width="70.3343" height="17.7285" rx="3.3139" ry="3.3139" fill="#ffff6d"/>
-          <text transform="translate(1003.8174 850.7939)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">GPIO2</tspan></text>
-          <rect x="1068.6061" y="836.8164" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#24ff24"/>
-          <text transform="translate(1072.2051 850.7939)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">SCK0</tspan></text>
-          <rect x="1121.212" y="836.8164" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#009292"/>
-          <text transform="translate(1124.8106 850.7939)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">CTS0</tspan></text>
-          <rect x="1173.8179" y="836.8164" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#b6dbff"/>
-          <text transform="translate(1177.416 850.7939)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">SDA1</tspan></text>
-          <rect x="1226.4237" y="836.8164" width="59.8132" height="17.7285" rx="3.3139" ry="3.3139" fill="#6db6ff"/>
-          <text transform="translate(1230.0225 850.7939)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">PWM1A</tspan></text>
+          <line x1="1019.3399" y1="849.8567" x2="1276.3137" y2="848.1997" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
+          <rect x="1014.9412" y="839.3353" width="70.3343" height="17.7285" rx="3.3139" ry="3.3139" fill="#ffff6d"/>
+          <text transform="translate(1023.8007 853.3128)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">GPIO2</tspan></text>
+          <rect x="1088.5894" y="839.3353" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#24ff24"/>
+          <text transform="translate(1092.1884 853.3128)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">SCK0</tspan></text>
+          <rect x="1141.1953" y="839.3353" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#009292"/>
+          <text transform="translate(1144.7938 853.3128)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">CTS0</tspan></text>
+          <rect x="1193.8011" y="839.3353" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#b6dbff"/>
+          <text transform="translate(1197.3993 853.3128)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">SDA1</tspan></text>
+          <rect x="1246.407" y="839.3353" width="59.8132" height="17.7285" rx="3.3139" ry="3.3139" fill="#6db6ff"/>
+          <text transform="translate(1250.0057 853.3128)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">PWM1A</tspan></text>
         </g>
         <g>
-          <line x1="999.3566" y1="868.3801" x2="1256.3304" y2="866.7232" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
-          <rect x="994.9579" y="857.8587" width="70.3343" height="17.7285" rx="3.3139" ry="3.3139" fill="#ffff6d"/>
-          <text transform="translate(1003.8174 871.8339)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">GPIO3</tspan></text>
-          <rect x="1068.6061" y="857.8587" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#24ff24"/>
-          <text transform="translate(1077.4658 871.8339)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">TX0</tspan></text>
-          <rect x="1121.212" y="857.8587" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#009292"/>
-          <text transform="translate(1124.8106 871.8339)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">RTS0</tspan></text>
-          <rect x="1173.8179" y="857.8587" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#b6dbff"/>
-          <text transform="translate(1177.416 871.8339)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">SCL1</tspan></text>
-          <rect x="1226.4237" y="857.8587" width="59.8132" height="17.7285" rx="3.3139" ry="3.3139" fill="#6db6ff"/>
-          <text transform="translate(1230.0225 871.8339)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">PWM1B</tspan></text>
+          <line x1="1019.3399" y1="870.899" x2="1276.3137" y2="869.2421" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
+          <rect x="1014.9412" y="860.3777" width="70.3343" height="17.7285" rx="3.3139" ry="3.3139" fill="#ffff6d"/>
+          <text transform="translate(1023.8007 874.3528)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">GPIO3</tspan></text>
+          <rect x="1088.5894" y="860.3777" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#24ff24"/>
+          <text transform="translate(1097.4491 874.3528)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">TX0</tspan></text>
+          <rect x="1141.1953" y="860.3777" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#009292"/>
+          <text transform="translate(1144.7938 874.3528)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">RTS0</tspan></text>
+          <rect x="1193.8011" y="860.3777" width="49.292" height="17.7285" rx="3.3139" ry="3.3139" fill="#b6dbff"/>
+          <text transform="translate(1197.3993 874.3528)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">SCL1</tspan></text>
+          <rect x="1246.407" y="860.3777" width="59.8132" height="17.7285" rx="3.3139" ry="3.3139" fill="#6db6ff"/>
+          <text transform="translate(1250.0057 874.3528)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.5353" isolation="isolate"><tspan x="0" y="0">PWM1B</tspan></text>
         </g>
       </g>
       <g>
@@ -8852,6 +8852,23 @@
         <line x1="218.9856" y1="1017.8437" x2="262.1248" y2="1017.8437" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
         <rect x="232.2972" y="1009.0028" width="59.6549" height="17.6816" rx="3.3051" ry="3.3051" fill="#920000"/>
         <text transform="translate(241.1344 1022.9432)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.4889" font-weight="700" isolation="isolate"><tspan x="0" y="0">3.3V</tspan></text>
+      </g>
+      <g>
+        <g>
+          <line x1="816.399" y1="333.1077" x2="1151.2229" y2="333.1077" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
+          <rect x="830.1398" y="324.8359" width="58.2518" height="16.5436" rx="2.771" ry="2.771" fill="#e6e6e6" stroke="#737373" stroke-width=".3543"/>
+          <rect x="892.1888" y="324.3226" width="69.7051" height="17.5699" rx="3.2843" ry="3.2843" fill="#ffff6d"/>
+          <text transform="translate(900.9714 338.178)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">GPIO7</tspan></text>
+          <rect x="965.1781" y="324.3226" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#24ff24"/>
+          <text transform="translate(973.9626 338.178)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">TX0</tspan></text>
+          <rect x="1017.3133" y="324.3226" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#009292"/>
+          <text transform="translate(1020.8835 338.178)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">RTS1</tspan></text>
+          <rect x="1069.4485" y="324.3226" width="48.851" height="17.5699" rx="3.2843" ry="3.2843" fill="#b6dbff"/>
+          <text transform="translate(1073.0192 338.178)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">SCL1</tspan></text>
+          <rect x="1121.5837" y="324.3226" width="59.278" height="17.5699" rx="3.2843" ry="3.2843" fill="#6db6ff"/>
+          <text transform="translate(1125.1501 338.178)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="17.3784" isolation="isolate"><tspan x="0" y="0">PWM3B</tspan></text>
+        </g>
+        <text transform="translate(844.8404 338.4554)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="17.3784" font-weight="700" isolation="isolate"><tspan x="0" y="0">LED</tspan></text>
       </g>
     </g>
     <referenceFile>Adafruit Feather RP2350_breadboard.svg
